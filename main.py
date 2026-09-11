@@ -44,8 +44,8 @@ WIFI_SSID = "High Tide Gamer"
 WIFI_PASSWORD = "12345678"
 
 #Declaration of Telegram Bot
-TELEGRAM_BOT_TOKEN = "8809065437:AAG4TukWKbMOpsPGkSL_txwsfcG7COtHhEQ"  
-TELEGRAM_CHAT_ID = "2032289962"                                
+TELEGRAM_BOT_TOKEN = "<BOT Token>"  
+TELEGRAM_CHAT_ID = "<Chat ID>"                                
 TELEGRAM_SEND_INTERVAL_SEC = 15
 
 #display
